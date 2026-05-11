@@ -1,4 +1,5 @@
----
+Infinix 
+hot 60i---
 manufacturer:
     - general
 ---
